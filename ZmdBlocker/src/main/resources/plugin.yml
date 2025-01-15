@@ -1,0 +1,6 @@
+name: ZmdBlocker
+version: '1.0'
+main: org.zmdblocker.ZmdBlocker
+api-version: '1.16'
+author: Zeniqzs
+website: https://discord.zeniqzs.eu

@@ -1,0 +1,27 @@
+# ===========================================
+#                                           |
+#            Made by Zeniqzs                |
+#                                           |
+#       https://discord.zeniqzs.eu/         |
+#                                           |
+# ===========================================
+
+
+Messages:
+  BlockedCommands: "&cThis Command dont exist !"
+
+CommandBlocker:
+  ColonsAllowed: false #Should Commands with : be allowed in Commands ? (For Default Players)
+  Commands:
+    - pl
+    - plugins
+    - ver
+    - version
+    - about
+  # - Add more commands that should be blocked
+
+  # The Permission for Players that should be allowed to use a Blocked Command is zmdblocker.allow.{your-command}
+
+  # - Example: zmdblocker.allow.pl
+
+  # If you want the Player to use all Blocked Commands give him the Permission zmdblocker.allow.*
